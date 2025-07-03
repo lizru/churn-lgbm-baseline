@@ -1,6 +1,6 @@
 # Baseline Customer Churn Prediction with LightGBM
 
-This project builds a baseline machine learning pipeline to predict customer churn using the Telco Customer Churn dataset from Kaggle. It uses a LightGBM classifier and includes model evaluation with key metrics, visualization, and SHAP explainability.
+This project builds a baseline machine learning pipeline to predict customer churn. It uses a LightGBM classifier and includes model evaluation with key metrics, visualization, and SHAP explainability.
 
 ## Use
 
